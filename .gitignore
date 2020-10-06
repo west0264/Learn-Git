@@ -1,6 +1,2 @@
 .DS_Store
 
-node_modules/
-
-# ifnore the docs folder in branch bob
-docs/
